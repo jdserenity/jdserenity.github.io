@@ -1,2 +1,2 @@
-# jdangelorg.github.io
-privacy policy
+# AngelOrg Privacy Policy
+<h1>What information do we collect?</h1> <p>We currently do not collect any of your information or data whatsoever.</p> <h1>How do we use the information?</h1> <p>We don't</p> <h1>What information do we share?</h1> <p>None</p> <h1>It's a requirement by google that I have this page available. That makes sense to us. Data collecting disclosure is important to many people and we want you to have the best experience possible. If our policy ever changes we will make sure to let you know, and it will be made obvious.</h1>
