@@ -1,6 +1,6 @@
 layout: page
 title: "Post Woke Society"
-permalink: https://jdangelorg.github.io/blog-post/1
+permalink: jdangelorg.github.io/blog-post/1
 
 <html>
   <body>
