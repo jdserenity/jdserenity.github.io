@@ -34,9 +34,9 @@ So maybe this movie is actually harmful in that it only serves to create a more 
 
 Before I finish, I want to leave you with one last prompt. One of the main critiques I had of the movie is that the creators developed two depictions of what men shouldn't be, in a way that I felt like was tearing us down. Simp Ken and Insecure Alpha Ken. It allowed us to reflect on times and ways that we have acted like those versions of man. But I don't think it tried to uplift us in any way, and I think that it should have. I believe that if you're going to tear someone down, it's your responsibility to give them ways they can build themselves back up. I'm a man, many of the people I most love in this world are men, and I believe it's in all of our best interests to figure out ways for the myriad varieties of men to channel themselves optimally. 
 
-Since the movie didn't give us any leads, let's make our own: What are some archetypes that men can model themselves after that are strong, powerful, dignified, respectable, and an optimal use of our "god-given" traits (testosterone, logical function, etc.), that are at the same time positive towards others, constructive, productive, and generally a good thing for the people, the world, and the universe?
+So since the movie didn't give us any leads, let's make our own: What are some archetypes that men can model themselves after that are strong, powerful, dignified, respectable, and an optimal use of our "god-given" traits (testosterone, logical function, etc.), that are at the same time positive towards others, constructive, productive, and generally a good thing for the people, the world, and the universe?
 
-I'm grateful to be a part of this conversation, and I hope this dissection brought you closer to your goals. Thank God and long live democracy -- J.D.
+I'm grateful to be a part of this conversation, and I hope this dissection brought you closer to your goals! Thank God, long live democracy, and Barbie movie, highly recommended. -- J.D.
 
 
 
