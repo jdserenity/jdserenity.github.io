@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Post Woke Society"
 permalink: /blog/1
 ---
