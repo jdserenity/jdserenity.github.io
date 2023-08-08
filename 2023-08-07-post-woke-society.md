@@ -36,7 +36,7 @@ Before I finish, I want to leave you with one last prompt. One of the main criti
 
 Since the movie didn't give us any leads, let's make our own: What are some archetypes that men can model themselves after that are strong, powerful, dignified, respectable, and an optimal use of our "god-given" traits (testosterone, logical function, etc.), that are at the same time positive towards others, constructive, productive, and generally a good thing for the people, the world, and the universe?
 
-I'm grateful to be a part of this conversation, and I hope this dissection brought you closer to your goals! Thank God and long live democracy ✌🏽 -- J.D.
+I'm grateful to be a part of this conversation, and I hope this dissection brought you closer to your goals. Thank God and long live democracy -- J.D.
 
 
 
