@@ -4,9 +4,9 @@ title: "Post Woke Society"
 permalink: /blog/2023/08/07/post-woke-society.html
 ---
 # {{page.title}}
+Aug 8, 2023
 
 ### I watched the Barbie movie. I thought it was great.
-Aug 8, 2023
 
 I don't really like movies, I rarely watch them. My favourite movies are Inside Out and Instant Family. That should tell you a lot about me. I don't like being entertained and movies are for the most part a whole lot of that. As far as entertainment goes, barbie was run of the mill. Exposition, conflict, climax, denouement. Rinse and repeat. It got boring and I wanted to do something more valuable with my time, my experience with most movies, whatever. But I did leave my illegally streamed movie theater cam recording session with gratitude at the predicted impact this movie will have on culture. And <em><strong>that</strong></em> is why I thought it was great.
 
