@@ -1,3 +1,6 @@
+---
+title: null
+---
 
 # J.D.'s Thoughts
 
