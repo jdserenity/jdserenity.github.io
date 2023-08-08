@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Privacy Policy"
+permalink: /privacy-policy/
+---
+
 # AngelOrg Privacy Policy
 ## What information do we collect?
 ###### We currently do not collect any of your information or data whatsoever.
