@@ -5,6 +5,7 @@ permalink: /blog/2023/08/07/post-woke-society.html
 ---
 # {{page.title}}
 Aug 8, 2023
+(1,558 Words, ETA 5-7 Mins)
 
 ### I watched the Barbie movie. I thought it was great.
 
