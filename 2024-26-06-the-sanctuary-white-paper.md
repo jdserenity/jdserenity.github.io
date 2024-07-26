@@ -19,7 +19,7 @@ In our modern multicultural societies. We’ve made a huge tradeoff. We’ve gai
 
 The answer: lies in that one word that towers over so many others, morality. In my perception, I see the natural tendency for fragmentation playing out throughout our societies. People with the same backgrounds tend to stick together, people with the same beliefs tend to stick together, and people with the same shared history tend to stick together.
 
-We would expect that after a sufficient period of time, differing groups would converge over their shared humanity and continued understanding of each other. But the reality is, that at the core of all belief systems, there are very important decisions made about morality. And when one group thinks the other is being sufficiently immoral (i.e. causing undue harm, disrespecting their perception of god, taking away the freedoms they previously were allowed, etc.), most people will not stand for such a thing.
+We would expect that after a sufficient period of time, differing groups would converge over their shared humanity and iterative continued understanding of each other. But the reality is, that at the core of all belief systems, there are very important decisions made about morality. And when one group thinks the other is being sufficiently immoral (i.e. causing undue harm, disrespecting their perception of god, taking away the freedoms they previously were allowed, etc.), most people will not stand for such a thing.
 
 Because morality also lies at the very thing that gives us any meaning in life, or any purpose for doing anything, this creates a dark abyss of conflict between groups. Each group must play out their moral code, or have no meaning. But one group’s moral code, will inevitably go strongly against another's.
 
@@ -56,3 +56,5 @@ My hope is not that this idea will be successful, and not even that this group w
 The Sanctuary will be taking place every Sunday at 11am for 1 hour and a half. Join me if you like, it would be my pleasure.
 
 sanctuary <br>*noun*<br>1. a place of refuge or safety.
+
+-- *Diamari*
