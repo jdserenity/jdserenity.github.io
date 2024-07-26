@@ -2,3 +2,4 @@ title: "Diamari's Missives"
 title_font: "'Dancing Script', cursive"
 custom_css:
   - /global.css
+head_include: _includes/head-custom.html
