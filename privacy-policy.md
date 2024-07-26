@@ -4,7 +4,7 @@ title: "Privacy Policy"
 permalink: /privacy-policy/
 ---
 
-# AngelOrg Privacy Policy
+# Serenity Corporations Privacy Policy
 ## What information do we collect?
 ###### We currently do not collect any of your information or data whatsoever.
 ## How do we use the information?
