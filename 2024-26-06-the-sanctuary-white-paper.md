@@ -53,6 +53,6 @@ My hope is not that this idea will be successful, and not even that this group w
 
 The Sanctuary will be taking place every Sunday at 11am for 1 hour and a half. Join me if you like, it would be my pleasure.
 
-sanctuary
+sanctuary <br>
 noun
 1. a place of refuge or safety.
