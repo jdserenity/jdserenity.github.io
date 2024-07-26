@@ -5,7 +5,7 @@ permalink: /blog/2024/26/06/the-sanctuary-white-paper.html
 ---
 # {{page.title}}
 Jul 26, 2024 <br>
-(1,558 Words, ETA 5-7 Mins)
+(1,105 Words, ETA 4-8 Mins)
 
 ### The world needs a new direction. I aim to give it one.
 
@@ -47,7 +47,7 @@ So that being said: all are welcomed. The only way to get to the truth is to deb
 
 Just be prepared to have your opinions pushed back on and dissected. And be prepared to hear views about the world that may not be what you want to hear. They exist and the only way to improve them is to bring them to light. Just know that no falsehoods will be allowed to stand.
 
-# DISCLAIMER: If anyone becomes physically violent you will be asked to leave. Only civil discourse is allowed.
+### DISCLAIMER: If anyone becomes physically violent you will be asked to leave. Only civil discourse is allowed.
 
 My hope is not that this idea will be successful, and not even that this group will be successful. My hope is that others will be inspired by this experiment, learn from what we discover, and continue growing a movement towards unity, and towards peace. This may not be the best option that has ever existed or that will ever exist. It may even be a terrible idea. But at least it’s an idea, and unfortunately I don’t see very many of those right now.
 
