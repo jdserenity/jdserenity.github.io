@@ -7,7 +7,7 @@ permalink: /blog/2024/26/06/the-sanctuary-white-paper.html
 Jul 26, 2024 <br>
 (1,105 Words, ETA 4-8 Mins)
 
-![Futuristic looking city, man and woman trying to understand each other, also they are plants.]({{site.baseurl}}/images/the-sanctuary-white-paper-futuristic-city-plant-people.webp)
+![Futuristic looking city, man and woman trying to understand each other, also they are plants.](/images/the-sanctuary-white-paper-futuristic-city-plant-people.webp)
 
 ### The world needs a new direction. I aim to give it one.
 
